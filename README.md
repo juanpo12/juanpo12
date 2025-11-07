@@ -1,43 +1,52 @@
-### Welcome to my profile! 👋
+# 👋 Hi, I'm Juan José Díaz
 
-I am a Fullstack Developer with experience working with various clients. My passion for programming is unparalleled; it is not just my job, but an integral part of my life. I enjoy every moment I can immerse myself in lines of code and contribute to the success of my colleagues.
+I'm a **Full Stack Developer** specialized in building **AI-powered applications** and **multi-tenant SaaS platforms**.  
+My focus is on creating scalable, maintainable, and high-impact solutions that blend **technical precision** with **strategic thinking** — a mindset I’ve honed through my love for chess ♟️.
 
-✨ My Tech Stack:
+---
 
-Next.js
-Firebase
-Node.js
-Express
-Sequelize
-React
-CSS
-HTML
-Typescript
-Redis
+### ⚡ About Me
 
-💡 About Me:
-My journey is defined by my innate ability to effectively contribute to projects and teams. My constant thirst for learning drives me to explore and adopt new technologies, keeping me up-to-date in a constantly evolving world. Additionally, in my free time, chess provides me with a mental and strategic challenge that complements my approach to solving problems in the tech world.
+- 🧠 Currently working at **Cibernova (Spain)**, developing a SaaS platform for **AI conversational agents** and **workflow automation**.
+- 💬 Previously at **Vozy (Colombia)**, where I led projects to build and deploy **AI agents** for automation and customer engagement.
+- 🚀 Passionate about **real-time systems**, **event-driven architectures**, and the **intersection of AI and user experience**.
+- 🎯 My goal: to keep designing elegant, efficient solutions that make complex technology accessible and powerful.
 
-🌟 Objective:
-Due to all the opportunities of working with real clients, I feel ready to continue shaping myself into the developer I've always aspired to be.
+---
 
-🚀 Contact:
-If you want to work together, don't hesitate to reach out:
+### 🧩 Tech Stack
 
-LinkedIn: https://www.linkedin.com/in/juan-diaz-dev1
-GitHub: https://github.com/juanpo12
-Email: juanjosediazarmada@gmail.com
-<!--
-**juanpo12/juanpo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages & Frameworks:**  
+`TypeScript` `JavaScript` `Next.js` `React` `Express` `Node.js`
 
-Here are some ideas to get you started:
+**Databases & Cloud:**  
+`PostgreSQL` `Supabase` `Firebase` `Redis`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI & Automation:**  
+`OpenAI` `LangChain` `Anthropic` `Flowise` `Inngest` `Zapier` `Make`
+
+**Other Tools:**  
+`TailwindCSS` `Drizzle ORM` `Socket.io` `Git` `Jira` `Sentry`
+
+---
+
+### 🌍 Highlights
+
+- 🧩 Architected **multi-tenant SaaS infrastructure** ensuring data isolation and security across organizations.  
+- 🤖 Integrated **LLMs** for conversational automation using OpenAI, Anthropic, and Google APIs.  
+- ⚙️ Developed **real-time communication** between AI agents and users via Gmail and WhatsApp.  
+- 📊 Built **monitoring & observability pipelines** using Winston and Sentry.
+
+---
+
+### 💬 Philosophy
+
+> “Code is more than logic — it’s a way of thinking strategically, anticipating moves, and always seeking elegant simplicity.”
+
+---
+
+### 📫 Let’s Connect
+
+If you’d like to collaborate or chat about AI, SaaS architecture, or chess:
+- **Email:** [juanpodiaz12@gmail.com](mailto:juanpodiaz12@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/juanpodiaz12](https://linkedin.com/in/juanpodiaz12)
