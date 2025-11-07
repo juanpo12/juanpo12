@@ -48,5 +48,5 @@ My focus is on creating scalable, maintainable, and high-impact solutions that b
 ### 📫 Let’s Connect
 
 If you’d like to collaborate or chat about AI, SaaS architecture, or chess:
-- **Email:** [juanpodiaz12@gmail.com](mailto:juanpodiaz12@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/juanpodiaz12](https://linkedin.com/in/juanpodiaz12)
+- **Email:** [juanjosediazarmada@gmail.com](mailto:juanjosediazarmada@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/juan-diaz-dev1](https://linkedin.com/in/juan-diaz-dev1)
